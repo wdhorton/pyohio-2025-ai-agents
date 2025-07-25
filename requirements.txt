@@ -1,0 +1,5 @@
+openai
+requests
+crewai
+html2text
+notebook
